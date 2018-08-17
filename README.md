@@ -7,3 +7,6 @@
 - http://zipansion.com/1CElL
 ##### Download (Libraries)  
 - http://zipansion.com/1CEmv
+##### Installing process wine
+    sudo apt-get install wine
+    wine dir/WAV2RAW.exe
